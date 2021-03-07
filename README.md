@@ -1,5 +1,7 @@
 ## Hello There, I'm [Liam L (TheFallenSpirit)](https://thefallenspirit.xyz) 👋
 
+### Proud Co-Owner of [DijxCloud Platform](https://dijx.xyz)
+
 #### • I am a JavaScript Developer & Python Developer. 
 #### • I use Visual Studio Code - Insiders for Coding.
 
