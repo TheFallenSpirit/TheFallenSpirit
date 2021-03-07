@@ -4,8 +4,8 @@
 #### • I use Visual Studio Code - Insiders for Coding.
 
 ##### Website: [fallenspirit.xyz](https://fallenspirit.xyz)
-##### Email: email@fallenspirit.xyz
-##### Discord: Fallen#9999
+##### Email: me@fallenspirit.xyz
+##### Discord: fallen<3#7043
 ##### PayPal: [FallenCodes](https://paypal.me/fallencodes)
 ##### Twitter: [@FallenCodes](https://twitter.com/FallenCodes)
 ##### Twitch: [FallenCodes](https://twitch.tv/fallencodes)
