@@ -1,12 +1,12 @@
-## Hello There, I'm [Liam L (TheFallenSpirit)](https://thefallenspirit.xyz) 👋
+## Hello There, I'm [Liam L (TheFallenSpirit)](https://thefallenspirit.me) 👋
 
-### Proud Co-Owner of [DijxCloud Platform](https://dijxcloud.com)
+### Proud Owner of [NightMC Network](https://nightmc.org)
 
-#### • I am a JavaScript Developer & Python Developer. 
+#### • I am a Full Stack developer.. 
 #### • I use Visual Studio Code - Insiders for Coding.
 
-##### Website: [fallenspirit.xyz](https://fallenspirit.xyz)
-##### Email: me@fallenspirit.xyz
+##### Website: [fallenspirit.me](https://fallenspirit.xyz)
+##### Email: me@fallenspirit.me
 ##### Discord: Fallen#3333
 ##### PayPal: [FallenCodes](https://paypal.me/fallencodes)
 ##### Twitter: [@FallenCodes](https://twitter.com/FallenCodes)
