@@ -1,4 +1,4 @@
-## Hello There, I'm [Liam L (TheFallenSpirit)](https://thefallenspirit.me) 👋
+## Hello There, I'm [Liam L (TheFallenSpirit)](https://fallenspirit.me) 👋
 
 ### Proud Owner of [NightMC Network](https://nightmc.org)
 
