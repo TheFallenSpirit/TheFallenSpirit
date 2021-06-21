@@ -1,7 +1,5 @@
 ## Hello There, I'm [Liam L (TheFallenSpirit)](https://fallenspirit.me) 👋
 
-### Proud Owner of [NightMC Network](https://nightmc.org)
-
 #### • I am a Full Stack developer.. 
 #### • I use Visual Studio Code - Insiders for Coding.
 
