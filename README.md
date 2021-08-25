@@ -1,4 +1,4 @@
-## Hola, [I'm Liam / Fallen!](https://fallenspirit.me) 👋
+## Hola, I'm Liam / Fallen! 👋
 
 #### ♡ Fullstack Developer & Gamer
 #### ♡ Projects: FyreNodes & ThingsOfFallen
