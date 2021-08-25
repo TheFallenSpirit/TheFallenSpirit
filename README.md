@@ -1,14 +1,15 @@
-## Hello There, I'm [Liam L (TheFallenSpirit)](https://fallenspirit.me) 👋
+## Hola, [I'm Liam / Fallen!](https://fallenspirit.me) 👋
 
-#### • I am a Full Stack developer.. 
-#### • I use Visual Studio Code - Insiders for Coding.
+#### ♡ Fullstack Developer & Gamer
+#### ♡ Projects: FyreNodes & ThingsOfFallen
+#### ♡ Stay well, Stay real friends.
 
-##### Website: [fallenspirit.me](https://fallenspirit.xyz)
-##### Email: me@fallenspirit.me
-##### Discord: Fallen#3333
-##### PayPal: [FallenCodes](https://paypal.me/fallencodes)
+##### Website: [fallenspirit.me](https://fallenspirit.me)
+##### Email: hello@fallenspirit.me
 ##### Twitter: [@FallenCodes](https://twitter.com/FallenCodes)
 ##### Twitch: [FallenCodes](https://twitch.tv/fallencodes)
+##### Instagram: [TheTechGuy7864](https://instagram.com/thetechguy7864)
+##### Stack Overflow: [Liam L - Fallen](https://stackoverflow.com/users/15903401/liam-l-fallen?tab=profile)
 
 
 ![Coding Activity](https://wakatime.com/share/@7945d825-fc87-4385-b6e8-d5a4a136993c/e749d95b-7778-424e-96ac-0dcf0cd50d92.svg)
