@@ -12,7 +12,7 @@
 ##### Stack Overflow: [Liam L - Fallen](https://stackoverflow.com/users/15903401/liam-l-fallen?tab=profile)
 
 ### Pinned Repos:
-![![Dijx-Bot](https://github-readme-stats.vercel.app/api/pin/?username=ThingsOfFallen&repo=Dijx-Bot&theme=midnight-purple&hide_border=true&locale=en)](https://github.com/ThingsOfFallen/Dijx-Bot)
+[![Dijx-Bot](https://github-readme-stats.vercel.app/api/pin/?username=ThingsOfFallen&repo=Dijx-Bot&theme=midnight-purple&hide_border=true&locale=en)](https://github.com/ThingsOfFallen/Dijx-Bot)
 
 ### Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheFallenSpirit&count_private=true&show_icons=true&hide=issues&theme=midnight-purple&hide_border=true&locale=en)
