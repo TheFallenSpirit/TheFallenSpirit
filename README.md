@@ -16,4 +16,5 @@
 
 ### Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheFallenSpirit&count_private=true&show_icons=true&hide=issues&theme=midnight-purple&hide_border=true&locale=en)
-![Coding Activity](https://wakatime.com/share/@Fallen/73870996-9158-4152-a609-7ddb5ecb620e.svg)
+![Coding Activity](https://wakatime.com/share/@Fallen/51e6bc9f-3b26-423f-84fe-ad868d1fb212.svg)
+![Languages](https://wakatime.com/share/@Fallen/344236ee-1b2f-4652-957e-c003f70f0905.svg)
