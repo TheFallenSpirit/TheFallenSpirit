@@ -22,7 +22,12 @@
 ### 💜️ Stay well, Stay real friends.
 
 ### Best Repos:
-[![Dijx-Bot](https://github-readme-stats.vercel.app/api/pin/?username=ThingsOfFallen&repo=Dijx-Bot&theme=midnight-purple&hide_border=true&locale=en)](https://github.com/ThingsOfFallen/Dijx-Bot) [![Dijx-Web](https://github-readme-stats.vercel.app/api/pin/?username=ThingsOfFallen&repo=Dijx-Web&theme=midnight-purple&hide_border=true&locale=en)](https://github.com/ThingsOfFallen/Dijx-Web) [![KarpBot](https://github-readme-stats.vercel.app/api/pin/?username=ThingsOfFallen&repo=KarpBot&theme=midnight-purple&hide_border=true&locale=en)](https://github.com/ThingsOfFallen/KarpBot) [![Website](https://github-readme-stats.vercel.app/api/pin/?username=ThingsOfFallen&repo=Website&theme=midnight-purple&hide_border=true&locale=en)](https://github.com/ThingsOfFallen/Website)
+[![FyreNodes/Javis](https://github-readme-stats.vercel.app/api/pin/?username=FyreNodes&repo=Jarvis&theme=midnight-purple&hide_border=true&locale=en&show_owner=true)](https://github.com/FyreNodes/Jarvis)
+[![Jexactyl/panel](https://github-readme-stats.vercel.app/api/pin/?username=Jexactyl&repo=panel&theme=midnight-purple&hide_border=true&locale=en&show_owner=true)](https://github.com/Jexactyl/panel)
+[![Dijx-Bot](https://github-readme-stats.vercel.app/api/pin/?username=ThingsOfFallen&repo=Dijx-Bot&theme=midnight-purple&hide_border=true&locale=en)](https://github.com/ThingsOfFallen/Dijx-Bot)
+[![Dijx-Web](https://github-readme-stats.vercel.app/api/pin/?username=ThingsOfFallen&repo=Dijx-Web&theme=midnight-purple&hide_border=true&locale=en)](https://github.com/ThingsOfFallen/Dijx-Web)
+[![KarpBot](https://github-readme-stats.vercel.app/api/pin/?username=ThingsOfFallen&repo=KarpBot&theme=midnight-purple&hide_border=true&locale=en)](https://github.com/ThingsOfFallen/KarpBot)
+[![Website](https://github-readme-stats.vercel.app/api/pin/?username=ThingsOfFallen&repo=Website&theme=midnight-purple&hide_border=true&locale=en)](https://github.com/ThingsOfFallen/Website)
 
 ### Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheFallenSpirit&count_private=true&show_icons=true&hide=issues&theme=midnight-purple&hide_border=true&locale=en)
