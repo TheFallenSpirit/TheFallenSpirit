@@ -2,7 +2,9 @@
 
 ### 💙️ I am a Fullstack Developer that wants to make the world a better place.
 
-<!-- **Website**: [fallenspirit.me](https://fallenspirit.me)<br/> -->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6738ea92-7b99-4499-8a32-2e5f51310706/deploy-status)](https://fallenspirit.dev)
+
+**Website**: [fallenspirit.me](https://fallenspirit.dev)<br/>
 **Email**: [thefallenspirit@outlook.com](mailto:thefallenspirit@outlook.com)<br/>
 **Twitter**: [@FallenCodes](https://twitter.com/FallenCodes)<br/>
 **Twitch**: [FallenCodes](https://twitch.tv/fallencodes)<br/>
@@ -15,7 +17,7 @@
 ### Orginizations:
 * [FyreNodes](https://github.com/FyreNodes) (Operations)
 * [Fyre Software](https://github.com/FyreSoftware) (Operations)
-* [Jexactyl](https://github.com/Jexactyl/panel) (Contributer)
+* [Jexactyl](https://github.com/Jexactyl/Jexactyl) (Contributer)
 * [ThingsOfFallen](https://github.com/ThingsOfFallen) (Owner)
 * [NavoCloud (Closed)](https://github.com/NavoCloud) (Management)
 
