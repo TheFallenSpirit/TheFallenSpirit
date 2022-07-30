@@ -4,7 +4,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6738ea92-7b99-4499-8a32-2e5f51310706/deploy-status)](https://fallenspirit.dev)
 
-**Website**: [fallenspirit.me](https://fallenspirit.dev)<br/>
+**Website**: [fallenspirit.dev](https://fallenspirit.dev)<br/>
 **Email**: [thefallenspirit@outlook.com](mailto:thefallenspirit@outlook.com)<br/>
 **Twitter**: [@FallenCodes](https://twitter.com/FallenCodes)<br/>
 **Twitch**: [FallenCodes](https://twitch.tv/fallencodes)<br/>
