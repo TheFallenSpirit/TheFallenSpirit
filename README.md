@@ -12,6 +12,8 @@
 <br/><br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheFallenSpirit&count_private=true&include_all_commits=true&show_icons=true&hide=issues,stars&custom_title=My%20GitHub%20Stats&theme=midnight-purple&hide_border=true)
 
+## Need a Pterodactyl or Jexactyl installation? Need a website developed? Offering cheap freelancing services! Contact for info.
+
 ### Orginizations:
 * [FyreNodes](https://github.com/FyreNodes) (Operations)
 * [Fyre Software](https://github.com/FyreSoftware) (Operations)
