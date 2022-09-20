@@ -2,7 +2,7 @@
 
 ### 💙️ I am a Fullstack Developer that wants to make the world a better place.
 
-**Website**: [fallenspirit.me](https://fallenspirit.me)<br/>
+**Website**: [fallenspirit.dev](https://fallenspirit.dev)<br/>
 **Email**: [thefallenspirit@outlook.com](mailto:thefallenspirit@outlook.com)<br/>
 **Twitter**: [@FallenCodes](https://twitter.com/FallenCodes)<br/>
 **Twitch**: [FallenCodes](https://twitch.tv/fallencodes)<br/>
@@ -18,7 +18,6 @@
 * [FyreNodes](https://github.com/FyreNodes) (Operations)
 * [Fyre Software](https://github.com/FyreSoftware) (Operations)
 * [ThingsOfFallen](https://github.com/ThingsOfFallen) (Owner)
-* [NavoCloud (Closed)](https://github.com/NavoCloud) (Management)
 
 ### 💜️ Stay well, Stay real friends.
 
