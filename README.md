@@ -10,7 +10,7 @@
 **Reddit**: [u/FallenCodes](https://www.reddit.com/user/fallencodes)<br/>
 **Stack Overflow**: [Liam L - Fallen](https://stackoverflow.com/users/15903401/liam-l-fallen?tab=profile)
 <br/><br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheFallenSpirit&count_private=true&include_all_commits=true&show_icons=true&hide=issues,stars&custom_title=My%20GitHub%20Stats&theme=midnight-purple&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheFallenSpirit&count_private=true&include_all_commits=true&show_icons=true&hide=stars&custom_title=My%20GitHub%20Stats&theme=midnight-purple&hide_border=true)
 
 ## Need a Pterodactyl or Jexactyl installation? Need a website developed? Offering cheap freelancing services! Contact for info.
 
