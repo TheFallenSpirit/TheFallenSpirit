@@ -6,7 +6,6 @@
 **Email**: [thefallenspirit@outlook.com](mailto:thefallenspirit@outlook.com)<br/>
 **Twitter**: [@FallenCodes](https://twitter.com/FallenCodes)<br/>
 **Twitch**: [FallenCodes](https://twitch.tv/fallencodes)<br/>
-**Instagram**: [FallenCodes](https://instagram.com/fallencodes)<br/>
 **Reddit**: [u/FallenCodes](https://www.reddit.com/user/fallencodes)<br/>
 **Stack Overflow**: [Liam L - Fallen](https://stackoverflow.com/users/15903401/liam-l-fallen?tab=profile)
 <br/><br/>
