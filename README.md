@@ -13,8 +13,6 @@
 
 ![Lasst.fm Stats](https://lastfm-recently-played.vercel.app/api?user=FallenCodes&show_user=header&footer_style=compact_stats&loved=true&loved_style=3&bg_color=080808&count=6)
 
-## Need a Pterodactyl or Jexactyl installation? Need a website developed? Offering cheap freelancing services! Contact for info.
-
 ### 💜️ Stay well, Stay real friends.
 
 ### My Projects:
