@@ -9,7 +9,7 @@
 **Reddit**: [u/FallenCodes](https://www.reddit.com/user/fallencodes)<br/>
 **Stack Overflow**: [Liam L - Fallen](https://stackoverflow.com/users/15903401/liam-l-fallen?tab=profile)
 <br/><br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheFallenSpirit&count_private=true&include_all_commits=true&show_icons=true&hide=stars&custom_title=My%20GitHub%20Stats&theme=midnight-purple&hide_border=true)
+![GitHub Stats](https://github-readme-stats-chi-seven-47.vercel.app/api?username=TheFallenSpirit&count_private=true&include_all_commits=true&show_icons=true&hide=stars&custom_title=My%20GitHub%20Stats&theme=midnight-purple&hide_border=true)
 
 ![Last.fm Stats](https://lastfm-recently-played.vercel.app/api?user=FallenCodes&show_user=header&footer_style=compact_stats&loved=true&loved_style=3&bg_color=080808&count=6)
 
