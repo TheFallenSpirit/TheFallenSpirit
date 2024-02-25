@@ -39,5 +39,3 @@
 ![All-Time Languages](https://github-readme-stats.vercel.app/api/wakatime?username=Fallen&layout=compact&custom_title=All-Time%20Coding%20Statistics&langs_count=16&theme=midnight-purple&hide_border=true)
 ![Coding Activity](https://wakatime.com/share/@Fallen/51e6bc9f-3b26-423f-84fe-ad868d1fb212.svg)
 ![Languages](https://wakatime.com/share/@Fallen/344236ee-1b2f-4652-957e-c003f70f0905.svg)
-
-MTEzNjI3NjgwNDE2MDcyNTEzNA.GfF4Sj.qtAm_JLDQG8BVcUqXbZdtdNy-Ipw4EA-UNSfRA
